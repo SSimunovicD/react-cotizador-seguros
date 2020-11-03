@@ -1,8 +1,6 @@
 Curso ReactJs - Cotizador de seguros desarrollado en ReactJs utilizando Styled Components.
 
-## Available Scripts
-
-In the project directory, you can run:
+Visualizar proyecto desde: https://cotizador-seguros-3fd30e.netlify.app
 
 ### `npm start`
 
